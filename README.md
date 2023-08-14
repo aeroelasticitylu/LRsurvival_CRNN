@@ -3,7 +3,7 @@
 **Note** Rearranging for public release
 
   A hybrid CNN-RNN approach for survival analysis in a Lung Cancer Screening study
-  [[Link to Journal]]( 10.1016/j.heliyon.2023.e18695)
+  [[Link to Journal]](https://doi.org/10.1016/j.heliyon.2023.e18695)
 
   DOI: 10.1016/j.heliyon.2023.e18695
 
